@@ -3,21 +3,21 @@
 - Theory
   - Event loop: 🎓 known
   - try..catch: 🖐️ used
-  - Non-blocking: 👂 heard
-  - Async I/O: 👂 heard
-  - Thread pool: 👂 heard
-  - Pattern Reactor: 👂 heard
+  - Non-blocking: : 🎓 known
+  - Async I/O: : 🎓 known
+  - Thread pool: : 🎓 known
+  - Pattern Reactor: : 🎓 known
   - CAS operations: 👂 heard
   - epoll: 👂 heard
   - kqueue: 👂 heard
   - Completion ports: 👂 heard
   - Event ports: 👂 heard
   - libuv: 👂 heard
-  - Race conditions: 👂 heard
-  - Dead locks: 👂 heard
-  - Live locks: 👂 heard
+  - Race conditions: : 🎓 known
+  - Dead locks: : 🎓 known
+  - Live locks: : 🎓 known
   - Concurrent programming: 👂 heard
-  - Parallel programming: 👂 heard
+  - Parallel programming: : 🎓 known
   - Actor Model: 👂 heard
   - Thread: 🎓  known
   - Process: 🎓 known
@@ -26,13 +26,13 @@
   - Callback-last-error-first: 🙋 explained
   - Thenable: 👂 heard
   - Promise: 🎓 known
-  - Async/await: 🖐️ used
+  - Async/await: 🙋 explained
   - Future: 🎓 known
   - Deferred: 👂 heard
   - Sync generator: 👂 heard
   - Async Generator: 👂 heard
   - Async Iterator: 👂 heard
-  - Event: 👂 heard
+  - Event:: 🙋 explained
   - Coroutine: 👂 heard
   - Goroutine: 👂 heard
   - Signal: 🎓 known
@@ -45,7 +45,7 @@
   - promisify: 🎓 known
   - asyncify: 🎓 known
   - callbacks compose: 👂 heard
-  - async compose: 👂 v
+  - async compose: 👂 heard
 - Async abstractions interfaces
   - EventEmitter: 🎓 known
   - Observable/Observer: 🎓 known
@@ -55,12 +55,12 @@
   - Async Pool: 👂 heard
   - Async Queue: 👂 heard
   - Async Collector: 👂 heard
-  - Semaphore: 👂 heard
+  - Semaphore: 🎓 known
   - Mutex: 🎓 known
   - Spin Lock: 👂 heard
 - JavaScript & Node.js specific
-  - Timers: 👂 heard
-  - setImmediate: 👂 heard
+  - Timers: 🎓 known
+  - setImmediate: 🎓 known
   - nextTick: 👂 heard
   - AbortController: 👂 heard
   - AbortSignal: 👂 heard
@@ -75,13 +75,13 @@
   - ref() and unref(): 👂 heard
   - Error handling in async code: 🎓 known
   - Better stack traces with return await: 👂 heard
-  - JSON: streaming serialization: 👂 heard
+  - JSON: streaming serialization: 🎓 known
   - promisify: 🎓 known
   - callbackify: 🎓 known
   - AsyncLocalStorage: 👂 heard
   - AsyncResource: 👂 heard
 - Techniques
-  - async.js library: 👂 heard
+  - async.js library: 🖐️ used
   - RxJS library: 👂 heard
   - Async composition: 👂 heard
   - Promise.all: 👂 heard

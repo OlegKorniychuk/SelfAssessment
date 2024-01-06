@@ -11,15 +11,15 @@
   - Object-based programming: 🎓 known
   - Generic programming: 👂 heard
   - Concurrent computing: 👂 heard
-  - Asyncronous programming: 🎓 known
+  - Asyncronous programming: 🖐️ used
   - Parallel programming: 👂 heard
-  - Reactive programming: 👂 heard
+  - Reactive programming: 🖐️ used
   - FRP (Functional-reactive): 👂 heard
   - Automata-based programming
   - Domain-specific languages: 👂 heard
   - Multi-paradigm programming: 🎓 known
   - Metaprogramming: 👂 heard
-  - Actor model: 👂 heard
+  - Actor model: 🖐️ used
 - OOP basics
   - constructor: 🙋 explained
   - new: 🙋 explained
@@ -33,14 +33,14 @@
   - Inheritance: 🙋 explained
   - Parent class: 🙋 explained
   - Polymorphism: 🙋 explained
-  - Abstract class: 🎓 known
-  - Interface: 🎓 known
-  - Encapsulation: 🖐️ used
-  - Hidden class: 👂 heard
-  - Object form: 👂 heard
-  - instance: 🖐️ used
-  - Introspection: 👂 heard
-  - Reflection: 👂 heard
+  - Abstract class: 🙋 explained
+  - Interface: 🙋 explained
+  - Encapsulation: 🙋 explained
+  - Hidden class: 🙋 explained
+  - Object form: 🙋 explained
+  - instance: 🙋 explained
+  - Introspection: 🎓 known
+  - Reflection: 🎓 known
 - Patterns
   - Singleton: 🖐️ used
   - Factory Method: 🖐️ used

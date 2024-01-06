@@ -42,7 +42,7 @@
   - higher order: 🙋 explained
   - recursion: 🙋 explained
   - callback: 🙋 explained
-  - listener: 🖐️ used
+  - listener: 🙋 explained
   - compose: 🙋 explained
   - pipe: 🖐️ used
   - memoize: 🙋 explained
@@ -65,7 +65,7 @@
   - hash table: 🙋 explained
   - linked list: 🙋 explained
   - doubly list: 🙋 explained
-  - unrolled list: 🎓 known
+  - unrolled list: 🙋 explained
   - circular list: 🙋 explained
   - queue: 🙋 explained
   - stack: 🙋 explained
@@ -80,10 +80,10 @@
 - Process & style
   - compiler: 🎓 known
   - transpiler: 🎓 known
-  - linter: 🖐️ used
+  - linter: 🙋 explained
   - polyfill: 🎓 known
   - debugger: 🎓 known
-  - garbage collection: 🎓 known
+  - garbage collection: 🙋 explained
   - refactoring: 🙋 explained
   - code review: 🙋 explained
   - antipatterns: 🙋 explained
