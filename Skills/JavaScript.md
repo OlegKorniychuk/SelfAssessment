@@ -6,24 +6,24 @@
   - arrow function: 🙋 explained
   - async function: 🙋 explained
   - call: 🙋 explained
-  - bind: 🖐️ used
-  - apply: 🖐️ used
-  - instanceof: 🖐️ used
+  - bind: 🙋 explained
+  - apply: 🙋 explained
+  - instanceof: 🙋 explained
   - ...spread: 🙋 explained
   - ...rest: 🙋 explained
-  - typeof: 🖐️ used
-  - destructuring: 🖐️ used
+  - typeof: 🙋 explained
+  - destructuring: 🙋 explained
   - generator: 🎓 known
   - iterator: 🎓 known
-  - async generator: 👂 heard
-  - async iterator: 👂 heard
-  - chaining: 🎓 known
+  - async generator: 🎓 known
+  - async iterator: 🎓 known
+  - chaining: 🖐️ used
   - optional chaining: 🎓 known
   - IIFE: 👂 heard
   - global: 🎓 known
-  - globalThis: 🎓 known
+  - globalThis: 🖐️ used
   - window: 👂 heard
-  - getters and setters: 🖐️ used
+  - getters and setters: 🙋 explained
   - __proto__: 👂 heard
   - prototype: 🎓 known
   - equality operators: 🙋 explained
@@ -32,12 +32,12 @@
   - ternary operator: 🙋 explained
   - void: 🎓 known
   - yield: 👂 heard
-  - await: 🖐️ used
-  - template literal: 🖐️ used
-  - strict mode: 🖐️ used
+  - await: 🙋 explained
+  - template literal: 🙋 explained
+  - strict mode: 🙋 explained
   - delete: 🎓 known
   - in: 👂 heard
-  - super: 🎓 known
+  - super: 🙋 explained
   - Symbol: 👂 heard
   - Reflect: 👂 heard
 - Statements
@@ -48,16 +48,16 @@
   - for..in: 🙋 explained
   - for..of: 🙋 explained
   - for await: 🎓 known
-  - throw: 🖐️ used
-  - break: 🖐️ used
-  - continue: 🖐️ used
-  - import: 🖐️ used
-  - export: 🖐️ used
+  - throw: 🙋 explained
+  - break: 🙋 explained
+  - continue: 🙋 explained
+  - import: 🙋 explained
+  - export: 🙋 explained
   - label: 👂 heard
-  - try..catch: 🖐️ used
-  - switch: 🖐️ used
-  - class: 🖐️ used
-  - new Error: 🖐️ used
+  - try..catch: 🙋 explained
+  - switch: 🙋 explained
+  - class: 🙋 explained
+  - new Error: 🙋 explained
   - with: 🎓 known
 - Functions
   - function declaration: 🙋 explained
@@ -67,8 +67,8 @@
   - functional object: 🙋 explained
 - Data structures
   - Array: 🙋 explained
-  - mixin: 👂 heard
-  - extend: 👂 heard
+  - mixin: 🖐️ used
+  - extend: 🎓 known
   - typed arrays: 🎓 known
   - Map: 🙋 explained
   - Set: 🙋 explained
@@ -78,9 +78,9 @@
   - weak collections: 🎓 known
   - timers: 🎓 known
   - EventEmitter: 🎓 known
-  - RegExp: 🖐️ used
-  - Date: 🖐️ used
-  - BigInt: 👂 heard
+  - RegExp: 🙋 explained
+  - Date: 🙋 explained
+  - BigInt: 🙋 explained
 - Infrastructure
   - V8: 🖐️ used
   - Node.js: 🖐️ used
