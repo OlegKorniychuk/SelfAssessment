@@ -19,12 +19,12 @@
   - async iterator: 🎓 known
   - chaining: 🖐️ used
   - optional chaining: 🎓 known
-  - IIFE: 👂 heard
+  - IIFE: 🖐️ used
   - global: 🎓 known
   - globalThis: 🖐️ used
-  - window: 👂 heard
+  - window: 🖐️ used
   - getters and setters: 🙋 explained
-  - __proto__: 👂 heard
+  - __proto__: 🎓 known
   - prototype: 🎓 known
   - equality operators: 🙋 explained
   - logical operators: 🙋 explained
@@ -36,7 +36,7 @@
   - template literal: 🙋 explained
   - strict mode: 🙋 explained
   - delete: 🎓 known
-  - in: 👂 heard
+  - in: 🖐️ used
   - super: 🙋 explained
   - Symbol: 👂 heard
   - Reflect: 👂 heard
@@ -69,7 +69,7 @@
   - Array: 🙋 explained
   - mixin: 🖐️ used
   - extend: 🎓 known
-  - typed arrays: 🎓 known
+  - typed arrays: 🖐️ used
   - Map: 🙋 explained
   - Set: 🙋 explained
   - undefined: 🙋 explained
@@ -82,8 +82,8 @@
   - Date: 🙋 explained
   - BigInt: 🙋 explained
 - Infrastructure
-  - V8: 🖐️ used
-  - Node.js: 🖐️ used
-  - npm: 🖐️ used
-  - prettier: 🖐️ used
-  - MDN: 🖐️ used
+  - V8: 🙋 explained
+  - Node.js: 🙋 explained
+  - npm: 🙋 explained
+  - prettier: 🙋 explained
+  - MDN: 🙋 explained

@@ -24,7 +24,7 @@
   - conditions: 🙋 explained
   - loops: 🙋 explained
   - assignment: 🙋 explained
-  - regular expression: 🙋 explained
+  - regular expression: 🔬 researched
   - interface: 🙋 explained
   - contract: 🎓 known
   - module: 🙋 explained
@@ -44,7 +44,7 @@
   - callback: 🙋 explained
   - listener: 🙋 explained
   - compose: 🙋 explained
-  - pipe: 🖐️ used
+  - pipe: 🙋 explained
   - memoize: 🙋 explained
   - wrapper: 🙋 explained
   - functor: 🎓 known
@@ -78,11 +78,11 @@
   - serialization: 🙋 explained
   - string parsing: 🙋 explained
 - Process & style
-  - compiler: 🎓 known
+  - compiler: 🖐️ used
   - transpiler: 🎓 known
   - linter: 🙋 explained
   - polyfill: 🎓 known
-  - debugger: 🎓 known
+  - debugger: 🖐️ used
   - garbage collection: 🙋 explained
   - refactoring: 🙋 explained
   - code review: 🙋 explained

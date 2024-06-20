@@ -10,9 +10,9 @@
   - Object-oriented programming: 🖐️ used
   - Object-based programming: 🎓 known
   - Generic programming: 👂 heard
-  - Concurrent computing: 👂 heard
-  - Asyncronous programming: 🖐️ used
-  - Parallel programming: 👂 heard
+  - Concurrent computing: 🙋 explained
+  - Asyncronous programming: 🙋 explained
+  - Parallel programming: 🙋 explained
   - Reactive programming: 🖐️ used
   - FRP (Functional-reactive): 👂 heard
   - Automata-based programming
@@ -25,7 +25,7 @@
   - new: 🙋 explained
   - Static method
   - Method: 🙋 explained
-  - Async method
+  - Async method: 🙋 explained
   - Getters, Setters: 🙋 explained
   - Public fields: 🙋 explained
   - Private fields: 🙋 explained
@@ -42,9 +42,9 @@
   - Introspection: 🎓 known
   - Reflection: 🎓 known
 - Patterns
-  - Singleton: 🖐️ used
-  - Factory Method: 🖐️ used
-  - Abstract Factory: 👂 heard
+  - Singleton: 🙋 explained
+  - Factory Method: 🙋 explained
+  - Abstract Factory: 🙋 explained
   - Adapter: 👂 heard
   - Observer: 👂 heard
   - Strategy: 👂 heard
@@ -58,7 +58,7 @@
   - Builder: 👂 heard
   - Prototype: 🎓 known
   - Composite: 👂 heard
-  - Decorator: 👂 heard
+  - Decorator: 🖐️ used
   - Flyweight: 👂 heard
   - Mediator: 👂 heard
   - Memento: 👂 heard

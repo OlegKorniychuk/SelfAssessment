@@ -1,26 +1,26 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop: 🎓 known
-  - try..catch: 🖐️ used
-  - Non-blocking: : 🎓 known
-  - Async I/O: : 🎓 known
-  - Thread pool: : 🎓 known
+  - Event loop: 🙋 explained
+  - try..catch: 🙋 explained
+  - Non-blocking: : 🙋 explained
+  - Async I/O: : 🙋 explained
+  - Thread pool: : 🙋 explained
   - Pattern Reactor: : 🎓 known
   - CAS operations: 👂 heard
   - epoll: 👂 heard
   - kqueue: 👂 heard
   - Completion ports: 👂 heard
   - Event ports: 👂 heard
-  - libuv: 👂 heard
-  - Race conditions: : 🎓 known
-  - Dead locks: : 🎓 known
+  - libuv: 🙋 explained
+  - Race conditions: : 🙋 explained
+  - Dead locks: : 🙋 explained
   - Live locks: : 🎓 known
   - Concurrent programming: 👂 heard
-  - Parallel programming: : 🎓 known
+  - Parallel programming: : 🙋 explained
   - Actor Model: 👂 heard
-  - Thread: 🎓  known
-  - Process: 🎓 known
+  - Thread: 🙋 explained
+  - Process: 🙋 explained
 - Async contracts
   - Callbacks: 🙋 explained
   - Callback-last-error-first: 🙋 explained
@@ -32,14 +32,14 @@
   - Sync generator: 👂 heard
   - Async Generator: 👂 heard
   - Async Iterator: 👂 heard
-  - Event:: 🙋 explained
+  - Event: 🙋 explained
   - Coroutine: 👂 heard
   - Goroutine: 👂 heard
   - Signal: 🎓 known
   - Stream: 🎓 known
   - Chain of responsibility: 👂 heard
-  - Middleware: 🖐️ used
-  - Locks: 👂 heard
+  - Middleware: 📢 talked
+  - Locks: 🙋 explained
 - Async adapters and utils
   - callbackify: 🎓 known
   - promisify: 🎓 known
@@ -55,8 +55,8 @@
   - Async Pool: 👂 heard
   - Async Queue: 👂 heard
   - Async Collector: 👂 heard
-  - Semaphore: 🎓 known
-  - Mutex: 🎓 known
+  - Semaphore: 🙋 explained
+  - Mutex: 🙋 explained
   - Spin Lock: 👂 heard
 - JavaScript & Node.js specific
   - Timers: 🎓 known
@@ -67,8 +67,8 @@
   - Promise unhandled rejection: 👂 heard
   - Promise double resolve: 👂 heard
   - child_process: 👂 heard
-  - worker_threads: 👂 heard
-  - Atomics: 👂 heard
+  - worker_threads: 🎓 known
+  - Atomics: 🎓 known
   - High resolution clock: 👂 heard
   - Callback hell: 🎓 known
   - Promise hell: 🎓 known
@@ -84,10 +84,10 @@
   - async.js library: 🖐️ used
   - RxJS library: 👂 heard
   - Async composition: 👂 heard
-  - Promise.all: 👂 heard
+  - Promise.all: 🖐️ used
   - Promise.allSettled: 👂 heard
   - Promise.race: 👂 heard
-  - Promise.any: 👂 heard
+  - Promise.any: 🖐️ used
   - Web Locks API: 👂 heard
   - IPC: 👂 heard
   - Channel API: 👂 heard

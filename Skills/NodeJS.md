@@ -2,8 +2,8 @@
 
 - Internals and concepts
   - Strong and weak sides of node.js: 🎓 known
-  - Stateful and stateless servers: 👂 heard
-  - Nonblocking I/O and slocking code: 👂 heard
+  - Stateful and stateless servers: 🎓 known
+  - Nonblocking I/O and slocking code: 🎓 known
   - Event loop: phases: 🎓 known
   - Event loop: microtasks and macrotasks: 👂 heard
   - Garbage collection: 🎓 known
@@ -18,7 +18,7 @@
   - Modules as singletons: 🎓 known
   - Contexts and scripts node:vm: 👂 heard
   - Dependencies: npm, node_modules: 🖐️ used
-  - Dependencies: package.json and package lock: 🖐️ used
+  - Dependencies: package.json and package lock: 🎓 known
   - Module-based permissions model: 🎓 known
   - Isolation with modularity: 🎓 known
   - Dependency injection: 🙋 explained
@@ -38,7 +38,7 @@
   - Crypto API: 👂 heard
   - Password hashing with node:crypto.scrypt: 👂 heard
   - Web Crypto API: 👂 heard
-  - File system API: sync and async: 🖐️ used
+  - File system API: sync and async: 🙋 explained
   - Copy folder recursively: 🖐️ used
   - Worker threads: 👂 heard
   - Performance hooks: 👂 heard
@@ -50,15 +50,15 @@
   - Node.js single executable: 👂 heard
   - Stream back pressure: 👂 heard
   - SharedArrayBuffer: 👂 heard
-  - node:worker_threads: 👂 heard
-  - node:child_process: 👂 heard
+  - node:worker_threads: 🎓 known
+  - node:child_process: 🎓 known
   - MessageChannel, MessagePort: 👂 heard
   - BroadcastChannel: 👂 heard
   - Generating crypto random UUID: 👂 heard
-  - node:url vs new URL: 👂 heard
+  - node:url vs new URL: 🎓 known
   - node:assert: 👂 heard
   - Internationalization: 👂 heard
-  - Blob, File, Buffer, node:buffer: 👂 heard
+  - Blob, File, Buffer, node:buffer: 🎓 known
   - Module node:zlib: 👂 heard
 - Application structure and architecture
   - Isolation between layer: 🙋 explained
@@ -72,7 +72,7 @@
   - Distributed systems: 🎓 known
   - Highload applications: 🎓 known
   - Clean architecture: 🖐️ used
-  - DDD: 👂 heard
+  - DDD: 🎓 known
   - Message Queue: 👂 heard
   - CQS: 👂 heard
   - CQRS: 👂 heard
@@ -94,14 +94,14 @@
   - SSE: 👂 heard
   - HTTP/3 (QUIC): 👂 heard
   - Long polling: 👂 heard
-  - REST: 🖐️ used
-  - RPC: 👂 heard
-  - Routing: 🖐️ used
-  - DoS: 🎓 known
-  - DDoS: 🎓 known
-  - XSS: 👂 heard
-  - Path traversal: 👂 heard
-  - CSRF: 👂 heard
+  - REST: 📢 talked
+  - RPC: 🖐️ used
+  - Routing: 📢 talked
+  - DoS: 🙋 explained
+  - DDoS: 🙋 explained
+  - XSS: 🎓 known
+  - Path traversal: 🎓 known
+  - CSRF: 🎓 known
   - DNS: 🖐️ used
   - Fetch API: 🖐️ used
   - IncomingMessage: 👂 heard
@@ -114,9 +114,9 @@
   - Protocol agnostic approach: 👂 heard
 - Technique and tools
   - Native test runner: 🖐️ used
-  - Logging: 🎓 known
+  - Logging: 🚀 constructed
   - Application configuring: 👂 heard
-  - Testing: 🙋 explained
+  - Testing: 📢 talked
   - CI/CD: 🙋 explained
   - Readable: 👂 heard
   - Writable: 👂 heard
@@ -125,16 +125,16 @@
   - Buffer: 🎓 known
   - Console: 🎓 known
   - Inspector: 👂 heard
-  - Reliability: 👂 heard
-  - Quality: 👂 heard
-  - Availability: 👂 heard
-  - Flexibility: 👂 heard
+  - Reliability: 🎓 known
+  - Quality: 🎓 known
+  - Availability: 🎓 known
+  - Flexibility: 🎓 known
 - Data access
   - Data access layer: 🖐️ used
   - Repository: 🖐️ used
   - Active record: 👂 heard
   - Query builder: 👂 heard
-  - Object-Relational Mapping: 👂 heard
+  - Object-Relational Mapping: 🙋 explained
 - Error handling and debugging
   - Error: 🎓 known
   - error.cause: 🎓 known
